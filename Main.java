@@ -6,6 +6,7 @@ public class Main {
         System.out.println(mess);
         System.out.println(mess.toLowerCase());
         System.out.println(mess.toUpperCase());
-        System.out.println(mess.replace("!","%"));        
+        System.out.println(mess.replace("!","%"));
+        System.out.println(mess.charAt(7));  
     }
 }
