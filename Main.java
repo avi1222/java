@@ -8,7 +8,6 @@ public class Main {
         System.out.println(mess.toUpperCase());
         System.out.println(mess.replace("!","%"));
         System.out.println(mess.charAt(7));
-        System.out.println(mess.length());
 
     }
 }
